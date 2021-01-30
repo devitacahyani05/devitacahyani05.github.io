@@ -1,0 +1,42 @@
+
+.nav-item:hover{
+    cursor: pointer;
+    background-color: #344955;
+    width: auto;
+    height: auto;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color: white !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.dropdown-item:hover{
+    cursor: pointer;
+    background-color:  #f9aa33;
+}
+body{
+    background-color: beige;
+}
+.dropdown-item:hover{
+    cursor: pointer;
+    background-color:  #f9aa33;
+}
+.dropdown-item:hover{
+    cursor: pointer;
+    color: white !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.list-group-item:hover{
+    cursor: pointer;
+    background-color: #f9aa33;
+    width: auto;
+    height: auto;
+}
+.breadcrumb {
+    background: transparent;
+    float: right;
+}
